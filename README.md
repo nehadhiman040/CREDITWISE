@@ -74,8 +74,9 @@ Analysis of the target variable `Loan_Approved` reveals a distribution between a
    git clone https://github.com/your-username/loan-approval-prediction.git
    cd loan-approval-prediction
 
-Install Required Libraries: pip install pandas numpy seaborn matplotlib scikit-learn
+### Install Required Libraries: 
+pip install pandas numpy seaborn matplotlib scikit-learn
 
-Run the Notebook:
+### Run the Notebook:
 Launch Jupyter Notebook and execute the analysis file:
 jupyter notebook loan_approval_analysis.ipynb
